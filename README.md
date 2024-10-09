@@ -2,6 +2,9 @@
 
 This project focuses on analyzing call center data to identify recurring issues that can be resolved using self-service options in the Interactive Voice Response (IVR) system. The goal is to reduce unnecessary agent intervention, improve efficiency, and enhance customer satisfaction. The project utilizes call transcripts, call reasons, sentiment data, and customer data to uncover insights and propose actionable recommendations for IVR improvements.
 
+## Link to our PPT
+[View PPT](https://www.canva.com/design/DAGTFNl5GxA/dM0xhHY7_rl3gPyDjLperw/edit?utm_content=DAGTFNl5GxA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # Key Objectives:
 1. Data Preprocessing: Clean and merge data from multiple CSV files to create a consolidated dataset for analysis.
 2. Call Transcript Analysis: Use Natural Language Processing (NLP) techniques to extract keywords from call transcripts and identify recurring issues.
