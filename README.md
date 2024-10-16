@@ -33,7 +33,7 @@ We performed Natural Language Processing (NLP) on the call_transcript field to i
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/call-center-analysis.git
+git clone [https://github.com/your-username/call-center-analysis.git](https://github.com/hashcoder-deepanshi/United-Airlines-Hackathon)
 ```
 # Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request to improve the analysis or suggest new features.
